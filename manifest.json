@@ -1,0 +1,10 @@
+{
+	"id": "s3-images",
+	"name": "S3 Images",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically upload pasted or dropped images to AWS S3 and insert shareable markdown links into your notes",
+	"author": "Park Jae Wook",
+	"authorUrl": "https://github.com/LeChuckbb",
+	"isDesktopOnly": true
+}
