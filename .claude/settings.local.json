@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git log:*)",
+      "mcp__serena__check_onboarding_performed",
+      "mcp__serena__get_symbols_overview",
+      "mcp__serena__activate_project",
+      "mcp__serena__find_symbol",
+      "mcp__claude_ai_Mermaid_Chart__validate_and_render_mermaid_diagram"
+    ]
+  }
+}

@@ -1,2 +1,25 @@
 node_modules/
 main.js
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+
+# Obsidian plugin data (local vault testing)
+data.json
+
+# Build artifacts
+*.js.map
+dist/
+
+# Logs
+*.log
+npm-debug.log*
